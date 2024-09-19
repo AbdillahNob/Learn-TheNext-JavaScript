@@ -1,0 +1,13 @@
+1. Spread operator = menggabungkan 2 atau lebih array dan object
+	Spread jga bs mengeluarkan nilai string masing" element mnjdi nilai tunggal 
+- gabungkan array    
+[...variabel, ...variabel]  
+
+
+2. Rest Parameter Menampung nilai lbh dri 1 element
+- Menampung nilai dri 1 element
+[...variabels]
+
+3. Destructuring membongkar nilai object dan array dan di simpan variabel yg berbeda 
+
+[a,b,c] [nim,jurusan,nama,matkul]

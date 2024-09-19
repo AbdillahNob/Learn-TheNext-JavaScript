@@ -1,0 +1,20 @@
+
+[
+    {   
+        "nama": "Abdillah P Al-Iman",
+        "nim": "202300",
+        "jurusan": "Teknik Informatika"
+    },
+    
+    {   
+        "nama": "Andi Aini",
+        "nim": "202301",
+        "jurusan": "Teknik Informatika"
+    },
+    
+    {   
+        "nama": "Hanna Ishikawa",
+        "nim": "202303",
+        "jurusan": "Rekayasa Perangkat Lunak"
+    }
+]

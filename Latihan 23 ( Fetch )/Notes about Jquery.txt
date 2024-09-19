@@ -1,0 +1,5 @@
+Jquery = adalah library eksternal JavaScript
+	mines = dikarenakan library eksternal jdi ada resourch yg di gunakan sehinggai membuat performanya lambat.
+
+
+jadi alangkan baiknnya menggunakan library internal javascript sprti FETCH

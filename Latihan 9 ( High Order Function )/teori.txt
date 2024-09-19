@@ -1,0 +1,2 @@
+High Order Function = Artinya function yg memiliki argument/parameter dan return dalam bentuk function;
+	lalu function yg dijdikan sbgi argument/parameter dan return di sebut CALLBACK Function

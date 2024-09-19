@@ -1,0 +1,2 @@
+Destructuring adalah konsep memecah komponen menjadi lebih kecil.
+	artinya : kita bisa mengambil nilai dari 1/1 semua element array dan property object dan di masukkan ke dalam variabel yg berbeda.

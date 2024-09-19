@@ -1,0 +1,18 @@
+OBJECT = adalah Array, tpi bedanya indeks pada object bs di custom jdi tdk harus 0,1 dan strnya
+Pembuatan Object ada 4 cara :
+
+1. Object literal
+Minesnya : apabila datany lbh dri 1 maka, objectny jga harus lbh dari 1
+
+2. Object Function Deklaration 
+mskipun datany lbh dari 1, Objectnya bs 1, jdi tnggl dpnggl sj 
+Minesnya = apabila method nya lbh dri 1 dan hanya 1 digunakan, ddlm memory ttp semua method-nya di buat ulang stiap pemanggilan
+
+3. Constructor ( Keyword new)
+- hmpr sm dgn object function deklaration, tpi object nya tdk prlu ddeklarasikan dan tdk usah di return, ckp pki this.propery/method
+- jdi tdk prlu mmbuat object lain utk mmbuat method, ckp pnggl namaFungsi.prototype.namaMethod = function (){}
+
+4. Object.create();
+utk menghubungkn dgn object lain.
+
+PROYOTPE : adalah membuat method" lai, tnpa membuat Object baru utk method" trsebut. 

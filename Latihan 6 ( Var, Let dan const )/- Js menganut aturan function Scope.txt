@@ -1,0 +1,15 @@
+- Js menganut aturan function Scope jdi variabel dalam looping nilainy dan variabel bs di pnggl/ambbil diluar Looping.
+	Jadi Scope/Lingkunganny hnya brlaku pd lingk.function.
+Variabel localnya dlm function sj.
+- Sdngkn bhsa pemrograman lain mnganut Block Scope. shngga variabel localnya ddlm block/{} =
+
+
+- Anonymus Function adalah function tdk brnama
+
+1. Var = mnganut Function Scope dan js
+2. let = mnganut block Scope dan nilanya bs di ubah
+3. const = nilainya tdk bs di ubah.
+utk menimilisir pnggunaan state agr performa-nya ttp stabil
+- const bs di tambah nilainya
+- jika dlm bentuk objek nilainya bs di ubah, aslkn jgn property/methodnya
+- jika merubah nilai dlm array ckp pki method .push(value);

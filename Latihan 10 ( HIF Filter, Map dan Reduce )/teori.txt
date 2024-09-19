@@ -1,0 +1,11 @@
+1. Filter() = mengambil nilai pada setip element dari Array scra berurutan yg memenuhi kondisi dan mngemblikan ke variabel array baru.
+
+2. map() = mngambil nilai pada setiap element dari array scra berurutan dan mengubahnya ( memproses/ambil sj ) dan mngembalikan ke variabel array baru.
+
+3. reduce() = mnjumlhkn nilai dari element sblmnya dgn element skrng dan mnghasilkan nilai tunggal
+Artinya mnjumlahkan smua nilai yg ad pada array ( totalnilai )
+
+pnya 3 Parameter
+reduce(accumulator = hasil pnjmlhan pd setiap element, currentValue = nilai pd element yg sdng dilooping, 0 = nilai sblm element 1);
+
+4. method chain() = menggabungkn method lbh dri 1 ddlm 1 variabel.

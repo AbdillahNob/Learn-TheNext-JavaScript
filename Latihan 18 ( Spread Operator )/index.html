@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: salmon;
+            text-align: center;
+        }
+
+        .nama{
+            text-align: center;
+            text-transform: uppercase;
+            font-variant: small-caps;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        /* .nama:hover{
+            transform: scale(3);
+        } */
+
+        .nama span{
+            display: inline-block;
+            transition: .3s;
+            cursor: pointer;
+        }
+
+        .nama span:hover{
+            transform: scale(2) translateY(-20px);
+        }
+    </style>
+</head>
+<body>
+
+    <ol>
+        <li>Ragnar</li>
+        <li>Ivan</li>
+        <li>Logbrook</li>
+    </ol>
+
+    <h1 class="nama">Abdillah</h1>
+    <script src="script.js"></script>
+    
+</body>
+</html>

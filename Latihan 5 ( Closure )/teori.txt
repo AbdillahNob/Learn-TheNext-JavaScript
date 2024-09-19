@@ -1,0 +1,1 @@
+Closure adalah function dlm anonymus yg di eksekusi oleh function lain, sehingga function trsebut bs mengakses nilai ke lexical scope ( scope Parent-nya ) 

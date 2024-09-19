@@ -1,0 +1,10 @@
+1. Synchronus
+- Membaca dan mengeksekusi barisan kode secara berurutan
+- Tidak mengerjakan kode apabila kode barisan sebelumnya belum selesai di EKSEKUSI
+- Memblokir Eksekusi jika ada tugas berat dan memerlukan waktu yg tdk pasti
+Contoh : Jika membaca data dari file, Proses akan menunggu hingga seluruh file terbaca sebelum dilanjutkan
+
+2. Asynchronus
+- Kode bs di eksekusi meskipun baris kode sebelumnya belum selesai terEKSEKUSI.
+- Tdk memblokir proses RUNTIME dan tdk menunggu hingga pekerjaan selesai
+Contoh : Permintaan data dari server (AJAX) atau mengeksekusi tugas di belakang thread utama.

@@ -1,0 +1,11 @@
+1. Arrow Function tdk memakai konsep THIS
+	jadi this-nya akan di cek di luar arrow function trdkt, di lokal parent-nya lalu trkhir ke-global/window.
+
+- function deklaration
+Scope-nya Mncri variabel lngsg di windowny bkn di lokal parent trdktnya trlbh dahulu
+- function Ekspretion 
+Scope-nya mcnri variabel di lokal parent trdktny trlbh dahulu, lalu ke window.
+
+Makany jika ingin mmbuat METHOD dlm object lbh baik mnggunkan function Ekspretion
+
+setInterval() = adlh fungsi yg bertugas utk mlkukan mengulang nilai dgn waktu yg ditentukan oleh programmer
